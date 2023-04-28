@@ -1,4 +1,37 @@
 h1 {
   color: lightseagreen;
   background-color: blueviolet;
+  font-size: 48px;
+}
+
+ul {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.bruschetta {
+  background-color:brown;
+  color:crimson;
+}
+
+.bruschetta.bullet {
+  color:black;
+}
+
+.texas-cake {
+  background-color:aqua;
+  color:blue;
+}
+
+.texas-cake.bullet {
+  color: blueviolet;
+}
+
+.mac {
+  background-color: yellow;
+  color: orange;
+}
+
+.mac.bullet {
+  color: red;
 }
