@@ -4,9 +4,22 @@ h1 {
   font-size: 48px;
 }
 
+h3 {
+  font-size: 36px;
+  color: hsl(59, 45%, 42%)
+}
+
 ul {
-  font-size: 32px;
+  font-size: 24px;
   font-weight: bold;
+}
+
+ol {
+  font-size: 24px;
+}
+
+p {
+  font-size: 24px;
 }
 
 .bruschetta {
@@ -34,4 +47,13 @@ ul {
 
 .mac.bullet {
   color: red;
+}
+
+.img-container {
+ text-align: center;
+}
+
+img {
+  width: auto;
+  height: 300px;
 }
